@@ -1,16 +1,16 @@
-# Lab 8 - Express API + Fetch 
+# Lab 7 - GitHub Organizations & Repo Structure
 
 ## Purpose
-This lab focused on building a simple RESTful API using Express.js. The server returned photo data retrieved using `fetch()` and served a frontend to display the results.
+This lab focused on creating and configuring a GitHub Organization. It introduced collaborative workflows, team repo structures, and role-based access, preparing us for larger projects using shared repositories. 
 
-## Technologies Used
-- Node.js
-- Express.js
-- Fetch API
-- HTML, CSS, JS (frontnd)
+## Technologies Used 
+- GitHub Organizations
+- GitHub Teams
+- Repository Roles & Permissions
 
 ## What I Learned 
-- How to build an API with Express
-- How to serve static files
-- How to use `fetch()` with `.then()` and `.catch()` in Node and browser
+- How to create and configure GitHub organizations
+- How to manage team-level repo accoess
+- How to set up repositories for structured collaboration
+
 
