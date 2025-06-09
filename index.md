@@ -13,4 +13,4 @@ This lab focused on creating and configuring a GitHub Organization. It introduce
 - How to manage team-level repo accoess
 - How to set up repositories for structured collaboration
 
-
+![Screenshot of Lab 7](9C92351C-8264-466E-87ED-4A83F989B79E.png)
